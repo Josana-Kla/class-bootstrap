@@ -1,0 +1,41 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+}
+
+.navbar {
+  background-color: #EAFAF1;
+}
+
+.about-us {
+  background-color: #F39C12;
+  color: #EAFAF1;
+}
+
+.margin {
+ padding-top: 40px;
+ padding-bottom: 30px;
+}
+
+.img-space {
+  margin: 13px 10px 20px 10px;
+}
+
+.partners {
+  background-color: #ECF0F1;
+}
+
+.services {
+  background-color: #109B1C;
+  color: #EAFAF1;
+}
+
+.services img {
+  height: 300px;
+  width: 500px;
+}
+
+.bg-footer {
+  background-color: #353835;
+  color: #EAFAF1;
+}
